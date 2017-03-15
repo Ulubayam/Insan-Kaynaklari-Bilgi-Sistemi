@@ -1,0 +1,43 @@
+C:\Users\ASUS-PC\Desktop\VERİODEV2\VERİODEV2\bin\Debug\VERİODEV2.exe.config
+C:\Users\ASUS-PC\Desktop\Data Structures\VERİODEV2\VERİODEV2\bin\Debug\VERİODEV2.exe.config
+C:\Users\ASUS-PC\Desktop\Data Structures\VERİODEV2\VERİODEV2\bin\Debug\VERİODEV2.exe
+C:\Users\ASUS-PC\Desktop\Data Structures\VERİODEV2\VERİODEV2\bin\Debug\VERİODEV2.pdb
+C:\Users\ASUS-PC\Desktop\Data Structures\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS-PC\Desktop\Data Structures\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.Form1.resources
+C:\Users\ASUS-PC\Desktop\Data Structures\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.Properties.Resources.resources
+C:\Users\ASUS-PC\Desktop\Data Structures\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.csproj.GenerateResource.Cache
+C:\Users\ASUS-PC\Desktop\Data Structures\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.exe
+C:\Users\ASUS-PC\Desktop\Data Structures\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.pdb
+C:\Users\ASUS-PC\Desktop\Data Structures\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.Form2.resources
+C:\Users\ASUS-PC\Desktop\Data Structures\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.Form3.resources
+C:\Users\Gökhan Birinci\Desktop\VERİODEV2\VERİODEV2\bin\Debug\VERİODEV2.exe.config
+C:\Users\Gökhan Birinci\Desktop\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.exe
+C:\Users\Gökhan Birinci\Desktop\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.pdb
+C:\Users\Gökhan Birinci\Desktop\VERİODEV2\VERİODEV2\bin\Debug\VERİODEV2.exe
+C:\Users\Gökhan Birinci\Desktop\VERİODEV2\VERİODEV2\bin\Debug\VERİODEV2.pdb
+C:\Users\Gökhan Birinci\Desktop\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan Birinci\Desktop\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.Form1.resources
+C:\Users\Gökhan Birinci\Desktop\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.Form3.resources
+C:\Users\Gökhan Birinci\Desktop\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.Form2.resources
+C:\Users\Gökhan Birinci\Desktop\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.Properties.Resources.resources
+C:\Users\Gökhan Birinci\Desktop\VERİODEV2\VERİODEV2\obj\Debug\VERİODEV2.csproj.GenerateResource.Cache
+C:\Users\Gökhan Birinci\Desktop\Odev3v4\VERİODEV2\bin\Debug\VERİODEV2.exe.config
+C:\Users\Gökhan Birinci\Desktop\Odev3v4\VERİODEV2\obj\Debug\VERİODEV2.exe
+C:\Users\Gökhan Birinci\Desktop\Odev3v4\VERİODEV2\obj\Debug\VERİODEV2.pdb
+C:\Users\Gökhan Birinci\Desktop\Odev3v4\VERİODEV2\bin\Debug\VERİODEV2.exe
+C:\Users\Gökhan Birinci\Desktop\Odev3v4\VERİODEV2\bin\Debug\VERİODEV2.pdb
+C:\Users\Gökhan Birinci\Desktop\Odev3v4\VERİODEV2\obj\Debug\VERİODEV2.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan Birinci\Desktop\Odev3v4\VERİODEV2\obj\Debug\VERİODEV2.Form1.resources
+C:\Users\Gökhan Birinci\Desktop\Odev3v4\VERİODEV2\obj\Debug\VERİODEV2.Form3.resources
+C:\Users\Gökhan Birinci\Desktop\Odev3v4\VERİODEV2\obj\Debug\VERİODEV2.Form2.resources
+C:\Users\Gökhan Birinci\Desktop\Odev3v4\VERİODEV2\obj\Debug\VERİODEV2.Properties.Resources.resources
+C:\Users\Gökhan Birinci\Desktop\Odev3v4\VERİODEV2\obj\Debug\VERİODEV2.csproj.GenerateResource.Cache
+C:\Users\Gökhan Birinci\Desktop\Gizem Ulubayam Gökhan Birinci Odev3\Insan Kaynakları Bilgi Sistemi\VERİODEV2\bin\Debug\VERİODEV2.exe.config
+C:\Users\Gökhan Birinci\Desktop\Gizem Ulubayam Gökhan Birinci Odev3\Insan Kaynakları Bilgi Sistemi\VERİODEV2\obj\Debug\VERİODEV2.exe
+C:\Users\Gökhan Birinci\Desktop\Gizem Ulubayam Gökhan Birinci Odev3\Insan Kaynakları Bilgi Sistemi\VERİODEV2\obj\Debug\VERİODEV2.pdb
+C:\Users\gizem\Desktop\Gizem Ulubayam Gökhan Birinci Odev3\Gizem Ulubayam Gökhan Birinci Odev3\Insan Kaynakları Bilgi Sistemi\VERİODEV2\bin\Debug\VERİODEV2.exe.config
+C:\Users\gizem\Desktop\Gizem Ulubayam Gökhan Birinci Odev3\Gizem Ulubayam Gökhan Birinci Odev3\Insan Kaynakları Bilgi Sistemi\VERİODEV2\obj\Debug\VERİODEV2.exe
+C:\Users\gizem\Desktop\Gizem Ulubayam Gökhan Birinci Odev3\Gizem Ulubayam Gökhan Birinci Odev3\Insan Kaynakları Bilgi Sistemi\VERİODEV2\obj\Debug\VERİODEV2.pdb
+C:\Users\gizem\Desktop\Gizem Ulubayam\Gizem Ulubayam\Insan Kaynakları Bilgi Sistemi\VERİODEV2\bin\Debug\VERİODEV2.exe.config
+C:\Users\gizem\Desktop\Gizem Ulubayam\Gizem Ulubayam\Insan Kaynakları Bilgi Sistemi\VERİODEV2\obj\Debug\VERİODEV2.exe
+C:\Users\gizem\Desktop\Gizem Ulubayam\Gizem Ulubayam\Insan Kaynakları Bilgi Sistemi\VERİODEV2\obj\Debug\VERİODEV2.pdb
